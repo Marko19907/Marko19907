@@ -1,6 +1,8 @@
 ## 🔧 Technologies & Tools
 
 ### Languages
+* C++
+* Dart
 * Java
 * JavaScript
 * Kotlin
@@ -9,7 +11,10 @@
 * TypeScript
 
 ### Frameworks
+* Expo
+* Flutter
 * React
+* React Native
 * Spring Boot
 
 ### Tools
@@ -36,6 +41,6 @@
 
 <div style="width: 100%">
     <a href="https://github.com/Marko19907">
-        <img alt="Marko19907's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marko19907&show_icons=true&layout=compact&count_private=true" />
+        <img alt="Marko19907's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marko19907&hide=jupyter%20notebook&langs_count=8&show_icons=true&layout=compact&count_private=true" />
     </a>
 </div>
