@@ -1,18 +1,20 @@
 ## 🔧 Technologies & Tools
 
 ### Languages
-* C++
+* C/C++
 * Dart
 * Java
 * JavaScript
 * Kotlin
 * Python
+* Rust
 * SQL
 * TypeScript
 
 ### Frameworks
 * Expo
 * Flutter
+* Next.js
 * React
 * React Native
 * Spring Boot
@@ -27,8 +29,8 @@
     <a href="https://www.linkedin.com/in/markos-1406bb99">
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Marko19907, LinkedIn" width="30px" />
     </a>
-    <a href="https://twitter.com/marko19907">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="Marko19907, Twitter" width="30px" />
+    <a href="https://www.threads.net/@marko19907">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/threads.svg" alt="Marko19907, Threads" width="30px" />
     </a>
     <a href="https://instagram.com/marko19907">
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Marko19907, Instagram" width="30px" />
@@ -36,8 +38,6 @@
 </div>
 
 ## 📈 GitHub Stats
-
-![visitors](https://gpvc.arturio.dev/Marko19907)
 
 <div style="width: 100%">
     <a href="https://github.com/Marko19907">
